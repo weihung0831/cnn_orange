@@ -1,4 +1,4 @@
-# cnn_orange
+# cnn_orange(Orange sweetness classification)
 
 ## Dataset:300*300
 ## Labeling:
