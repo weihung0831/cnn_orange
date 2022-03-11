@@ -1,10 +1,10 @@
 # cnn_orange(Orange sweetness classification)
 
-## Dataset:300*300
-## Labeling:
+Dataset:300*300
+Labeling:
 Level A: > 12 Brix
-### Level B: 9-12 Brix
-### Level C: < 9 Brix
+Level B: 9-12 Brix
+Level C: < 9 Brix
 
-## Train: train_orange_image.py
-## Test: test_orange_image.py
+Train: train_orange_image.py
+Test: test_orange_image.py
