@@ -2,8 +2,8 @@
 Use Deep Learning technology to improve classification for fruit.
 
 ## Source Dataset
+We collect orange by myself and according to orange sweet level.<br>
 https://drive.google.com/drive/folders/17xq5SRoeycC_E-xNNAJbU8rsifxoDKzl?usp=sharing
-We collect orange by myself and according to orange sweet level.
 
 ## Step
 Step 1: python process_dataset.py<br>
