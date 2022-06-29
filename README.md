@@ -22,6 +22,9 @@ Test test data and evaluation metrics.
 python version 3.8<br>
 tensorflow-gpu version 2.5
 
+## Join Taiwan Automation Intelligence and Robot Show
+https://www.youtube.com/watch?v=TlBJyNHABJw
+
 ## Best paper award
 https://github.com/weihung0831/cnn_orange/blob/d0f845476154f1711c36d2ac2c902c4e05b24e7e/DLT2022-SS27-03_%E7%8D%8E%E7%8B%80.pdf
 
