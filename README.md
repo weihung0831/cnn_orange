@@ -6,13 +6,13 @@ https://drive.google.com/drive/folders/17xq5SRoeycC_E-xNNAJbU8rsifxoDKzl?usp=sha
 We collect orange by myself and according to orange sweet level.
 
 ## Step
-Step 1: python process_dataset.py
+Step 1: python process_dataset.py<br>
 Process dataset and convert to npz dataset.
 
-Step 2: python train.py
+Step 2: python train.py<br>
 Training model.
 
-Step 3: python test.py
+Step 3: python test.py<br>
 Test test data and evaluation metrics.
 
 ## Requirements
