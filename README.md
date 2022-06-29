@@ -16,7 +16,7 @@ Step 3: python test.py
 Test test data and evaluation metrics.
 
 ## Requirements
-python version 3.8
+python version 3.8<br>
 tensorflow-gpu version 2.5
 
 ## Best paper award
