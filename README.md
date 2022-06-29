@@ -3,6 +3,9 @@ Use Deep Learning technology to improve classification for fruit.
 
 ## Source Dataset
 We collect orange by myself and according to orange sweet level.<br>
+Label 0(Level C) --> color:green , sweetness:9 brix down.<br>
+Label 1(Level B) --> color:green_yellow , sweetness:9 ~ 12 brix.<br>
+Label 2(Level A) --> color:yellow , sweetness:12 brix up.<br>
 https://drive.google.com/drive/folders/17xq5SRoeycC_E-xNNAJbU8rsifxoDKzl?usp=sharing
 
 ## Step
